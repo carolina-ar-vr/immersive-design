@@ -1,5 +1,5 @@
 # [Intro to XR and Immersive Design Workshop](https://www.canva.com/design/DAF9Gsls4E0/9CNn6o1Oj7PtVaTisZNbSQ/view?utm_content=DAF9Gsls4E0&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-A Carolina AR/VR workshop all about immersive design – created by Ashley Neall!
+A Carolina AR/VR workshop all about immersive design – created by Ashley Neall and Grace Fei.
 
 ## An Introduction
 This workshop introduces students to extended reality (XR) and how to approach designing immersive experiences for all **sensory domains** within XR _(i.e. **visual**, **aural**, **haptic**, **olfactory**, and **gustatory**)_. We begin with a conceptual overview of what XR is and the spectrum from VR <-> MR <-> AR; then we move into explaining each sensory domain and roles that are crucial to immersive design. We will cover a range of interfaces (e.g. HMDs, 3D displays, wearable tech), 3D UI/UX, storytelling, modeling/animation, sound and haptic design, gustatory and olfactory displays! 
