@@ -43,8 +43,8 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 2. Olfactory + Gustatory Experiment – 10 minutes
    * Steps coming soon
 4. Sensory Stations - 25 minutes
-   * Visual + Aural – Quest 3
-   * Haptic – bHaptics
+   * **Visual + Aural:** Quest 3
+   * **Haptic:** bHaptics
 5. Questions + Upcoming Events - 5 minutes
    * Post-workshop resources
    * Upcoming Events
