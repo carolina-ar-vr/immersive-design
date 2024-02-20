@@ -18,8 +18,8 @@ While we can't provide hardware for olfactory and gustatory displays in this wor
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop. Don't worry, everything is free:
 ### General Setup
 1. Bookmark this repository (as you will be using its assets during _and_ after our workshop)!
-2. Follow the **Unity Setup** Setup below.
-3. Follow the **Blender Setup** Setup below. 
+2. Follow the **Unity Setup** below.
+3. Follow the **Blender Setup** below. 
 4. Read these articles on: [olfactory displays](https://venturebeat.com/game-development/aromajoin-unveils-scent-based-xr-devices-at-ces-2024/) and gustatory displays with food [textures](https://dl.acm.org/doi/10.1145/2971763.2971792) and [tastes](https://www.npr.org/sections/alltechconsidered/2013/12/10/250001919/the-digital-lollipop-you-can-literally-taste-the-innovation).
 5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
 6. (Optional) Watch this tutorial to [add spatial audio in Unity].
