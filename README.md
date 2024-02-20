@@ -6,8 +6,8 @@ This workshop introduces students to extended reality (XR) and how to approach d
 
 ### Experience Immersion
 The hands-on aspect of this workshop involves every workshop attendee experiencing the immersion provided through visual, aural, and haptic design. After a presentation introducing all the sensory domains, we will have two stations:
-  2. Visual + Aural: Quest 3 – _experience a MR application on the Quest 3, incorporating stereoscopic 3D graphics and spatial audio_
-  3. Haptic: bHaptics TactSuitX40 – _experience haptic feedback and design your own tactile demo with bHaptics' studio_
+1. Visual + Aural: Quest 3 – _experience a MR application on the Quest 3, incorporating stereoscopic 3D graphics and spatial audio_
+2. Haptic: bHaptics TactSuitX40 – _experience haptic feedback and design your own tactile demo with bHaptics' studio_
 
 While we can't provide hardware for olfactory and gustatory displays in this workshop, we will delve into an experiment that exposes students to the complexity of our tongue and nose's receptor cells:
 
