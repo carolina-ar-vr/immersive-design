@@ -57,5 +57,5 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 * At the conclusion of this workshop, we encourage students to read the extra slides and explore linked resources as they ideate XR projects to work on this semester and in future semesters :) Feel free to reach out to me with any questions, and if this workshop has sparked an interest in XR and graphics, consider [joining Carolina AR/VR](https://linktr.ee/carvr)!
 
 ### Contact Information
-Ashley Neall – aneall@unc.edu
-Grace Fei – gracefei@unc.edu
+* Ashley Neall – aneall@unc.edu
+* Grace Fei – gracefei@unc.edu
