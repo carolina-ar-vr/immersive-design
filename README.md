@@ -5,8 +5,7 @@ A Carolina AR/VR workshop all about immersive design – created by Ashley Neall
 This workshop introduces students to extended reality (XR) and how to approach designing immersive experiences for all **sensory domains** within XR _(i.e. **visual**, **aural**, **haptic**, **olfactory**, and **gustatory**)_. We begin with a conceptual overview of what XR is and the spectrum from VR <-> MR <-> AR; then we move into explaining each sensory domain and roles that are crucial to immersive design. We will cover a range of interfaces (e.g. HMDs, 3D displays, wearable tech), 3D UI/UX, storytelling, modeling/animation, sound and haptic design, gustatory and olfactory displays! 
 
 ### Experience Immersion
-The hands-on aspect of this workshop involves every workshop attendee experiencing the immersion provided through visual, aural, and haptic design. After a presentation introducing all the sensory domains, we will have three stations:
-  1. Visual: Blender – _learn the basics of Blender, leaving with the resources to model and animate your own 3D graphics_ 
+The hands-on aspect of this workshop involves every workshop attendee experiencing the immersion provided through visual, aural, and haptic design. After a presentation introducing all the sensory domains, we will have two stations:
   2. Visual + Aural: Quest 3 – _experience a MR application on the Quest 3, incorporating stereoscopic 3D graphics and spatial audio_
   3. Haptic: bHaptics TactSuitX40 – _experience haptic feedback and design your own tactile demo with bHaptics' studio_
 
