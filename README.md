@@ -16,15 +16,15 @@ While we can't provide hardware for olfactory and gustatory displays in this wor
 
 ## Pre-Workshop Setup
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop. Don't worry, everything is free:
-### General
+### General Setup
 1. Bookmark this repository (as you will be using its assets during _and_ after our workshop)!
-2. Follow the **Unity** Setup below.
-3. Follow the **Blender** Setup below. 
+2. Follow the **Unity Setup** Setup below.
+3. Follow the **Blender Setup** Setup below. 
 4. Read these articles on: [olfactory displays](https://venturebeat.com/game-development/aromajoin-unveils-scent-based-xr-devices-at-ces-2024/) and gustatory displays with food [textures](https://dl.acm.org/doi/10.1145/2971763.2971792) and [tastes](https://www.npr.org/sections/alltechconsidered/2013/12/10/250001919/the-digital-lollipop-you-can-literally-taste-the-innovation).
 5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
 6. (Optional) Watch this tutorial to [add spatial audio in Unity].
 
-### Unity
+### Unity Setup
 1. [Create a **Unity account**](https://id.unity.com/en/conversations/6d52083b-3d3a-4285-a1c5-ecb2119170d1001f). 
  a. Though it's not required, _we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
 2. Download the [**Unity Hub**](https://unity.com/download); _this is the hub where you will be able to access your projects and install different modules_.
@@ -32,7 +32,7 @@ Please make sure to complete the following steps *before* attending the workshop
   a. When selecting the modules to install along with the Editor, make sure to also check off the following modules:
     * Visual Studio – _this is for your IDE, so that you can program interactions later!_
     * Android Build Support – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
-### Blender
+### Blender Setup
 1. [Download Blender](https://www.blender.org/download/).
 2. Watch [this tutorial](https://youtube.com/shorts/5jTSx0Teo7c?si=FPazp8UI7_KD9KFX) that will show you how to **3D model an apple in Blender**.
 3. Save your Blender project as a .blend file _(Navigate to File -> **Save As** within Blender)_.
