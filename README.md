@@ -25,7 +25,7 @@ Please make sure to complete the following steps *before* attending the workshop
 6. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
 
 ### Unity Setup
-1. [Create a **Unity account**](https://id.unity.com/en/conversations/6d52083b-3d3a-4285-a1c5-ecb2119170d1001f). _Alhough it's not required, we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
+1. [Create a **Unity account**](https://id.unity.com/en/conversations/6d52083b-3d3a-4285-a1c5-ecb2119170d1001f). _Although it's not required, we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
 2. Download the [**Unity Hub**](https://unity.com/download); _this is the hub where you will be able to access your projects and install different modules_.
 3. Install the latest **Unity Editor** LFS version _(as of February 2024, we suggest version **2022.3.20f1**)_
   a. When selecting the modules to install along with the Editor, make sure to also check off the following modules:
