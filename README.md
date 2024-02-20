@@ -15,11 +15,28 @@ While we can't provide hardware for olfactory and gustatory displays in this wor
 
 
 ## Pre-Workshop Setup
-Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop:
-1. Create a Unity account. [Follow this link](https://glitch.com/). _we also suggest activating a **free** Educational License_
-3. Bookmark this repository (as you will be using its 3D assets and code during and after the workshop).
-4. Read [this page](https://aframe.io/docs/1.5.0/introduction/).
-5. (Optional) Explore A-Frame Docs to get ahead!
+Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop. Don't worry, everything is free:
+### General
+1. Bookmark this repository (as you will be using its 3D assets and code during and after the workshop).
+2. Follow the **Unity** Setup below.
+3. Follow the **Blender** Setup below. 
+4. Read these articles on: [olfactory displays](https://venturebeat.com/game-development/aromajoin-unveils-scent-based-xr-devices-at-ces-2024/) and gustatory displays with food [textures](https://dl.acm.org/doi/10.1145/2971763.2971792) and [tastes](https://www.npr.org/sections/alltechconsidered/2013/12/10/250001919/the-digital-lollipop-you-can-literally-taste-the-innovation).
+5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
+6. (Optional) Watch this tutorial to [add spatial audio in Unity].
+
+### Unity
+1. [Create a **Unity account**](https://id.unity.com/en/conversations/6d52083b-3d3a-4285-a1c5-ecb2119170d1001f). 
+ a. Though it's not required, _we also suggest activating a **free** [Student License](https://unity.com/products/unity-student), which basically gives you Unity Pro for free as a student!_
+2. Download the [**Unity Hub**](https://unity.com/download); _this is the hub where you will be able to access your projects and install different modules_.
+3. Install the latest **Unity Editor** LFS version _(as of February 2024, we suggest version **2022.3.20f1**)_
+  a. When selecting the modules to install along with the Editor, make sure to also check off the following modules:
+    * Visual Studio – _this is for your IDE, so that you can program interactions later!_
+    * Android Build Support – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
+### Blender
+1. [Download Blender](https://www.blender.org/download/).
+2. Watch [this tutorial](https://youtube.com/shorts/5jTSx0Teo7c?si=FPazp8UI7_KD9KFX) that will show you how to **3D model an apple in Blender**.
+3. Save your Blender project as a .blend file _(Navigate to File -> **Save As** within Blender)_.
+4. Come prepared with you **laptop**, **mouse**, and **.blend file** on Thursday!
 
 ## Workshop Outline
 Since this workshop only lasts for an hour, this will help gauge what we will spend our time on:
@@ -27,7 +44,6 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 2. Olfactory + Gustatory Experiment – 10 minutes
    * Steps coming soon
 4. Sensory Stations - 25 minutes
-   * Visual – Blender
    * Visual + Aural – Quest 3
    * Haptic – bHaptics
 5. Questions + Upcoming Events - 5 minutes
@@ -38,6 +54,7 @@ Since this workshop only lasts for an hour, this will help gauge what we will sp
 
 ## Post-Workshop Feedback and Resources
 * Finalized repository (will post after the workshop)
+* Post-workshop resources (will post after the workshop)
 * At the conclusion of this workshop, we encourage students to read the extra slides and explore linked resources as they ideate XR projects to work on this semester and in future semesters :) Feel free to reach out to me with any questions, and if this workshop has sparked an interest in XR and graphics, consider [joining Carolina AR/VR](https://linktr.ee/carvr)!
 
 ### Contact Information
