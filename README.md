@@ -22,7 +22,7 @@ Please make sure to complete the following steps *before* attending the workshop
 3. Follow the [**Blender Setup**](https://github.com/carolina-ar-vr/immersive-design/blob/main/README.md#blender-setup) below. 
 4. Read these articles on: [olfactory displays](https://venturebeat.com/game-development/aromajoin-unveils-scent-based-xr-devices-at-ces-2024/) and gustatory displays with food [textures](https://dl.acm.org/doi/10.1145/2971763.2971792) and [tastes](https://www.npr.org/sections/alltechconsidered/2013/12/10/250001919/the-digital-lollipop-you-can-literally-taste-the-innovation).
 5. (Optional) Watch this tutorial to [design haptic experiences with bHaptics](https://www.youtube.com/watch?v=Pyq9GHdchzc).
-6. (Optional) Watch this tutorial to [add spatial audio in Unity].
+6. (Optional) Watch this tutorial to [add spatial audio in Unity](https://www.youtube.com/watch?v=hNpNuDKSmgE&t=618s).
 
 ### Unity Setup
 1. [Create a **Unity account**](https://id.unity.com/en/conversations/6d52083b-3d3a-4285-a1c5-ecb2119170d1001f). 
