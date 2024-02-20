@@ -12,12 +12,12 @@ The hands-on aspect of this workshop involves every workshop attendee experienci
 While we can't provide hardware for olfactory and gustatory displays in this workshop, we will delve into an experiment that exposes students to the complexity of our tongue and nose's receptor cells:
 
 ### Olfactory + Gustatory Experiment
-
+[more info coming on thursday]
 
 ## Pre-Workshop Setup
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop. Don't worry, everything is free:
 ### General
-1. Bookmark this repository (as you will be using its 3D assets and code during and after the workshop).
+1. Bookmark this repository (as you will be using its assets during _and_ after our workshop)!
 2. Follow the **Unity** Setup below.
 3. Follow the **Blender** Setup below. 
 4. Read these articles on: [olfactory displays](https://venturebeat.com/game-development/aromajoin-unveils-scent-based-xr-devices-at-ces-2024/) and gustatory displays with food [textures](https://dl.acm.org/doi/10.1145/2971763.2971792) and [tastes](https://www.npr.org/sections/alltechconsidered/2013/12/10/250001919/the-digital-lollipop-you-can-literally-taste-the-innovation).
