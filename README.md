@@ -29,8 +29,8 @@ Please make sure to complete the following steps *before* attending the workshop
 2. Download the [**Unity Hub**](https://unity.com/download); _this is the hub where you will be able to access your projects and install different modules_.
 3. Install the latest **Unity Editor** LTS version _(as of February 2024, we suggest version **2022.3.18f1**)_
    - When selecting the modules to install along with the Editor, make sure to also check off the following modules:
-    * Visual Studio – _this is for your IDE, so that you can program interactions later!_
-    * Android Build Support – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
+      - Visual Studio – _this is for your IDE, so that you can program interactions later!_
+      - Android Build Support – _this includes modules needed to develop XR experiences for Android-based platforms (e.g. Quest 3, Quest Pro)_
 ### Blender Setup
 1. [Download Blender](https://www.blender.org/download/).
 2. Watch [this tutorial](https://youtube.com/shorts/5jTSx0Teo7c?si=FPazp8UI7_KD9KFX) that will show you how to **3D model an apple in Blender**.
