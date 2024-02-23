@@ -12,7 +12,7 @@ The hands-on aspect of this workshop involves every workshop attendee experienci
 While we can't provide hardware for olfactory and gustatory displays in this workshop, we will delve into an experiment that exposes students to the complexity of our tongue and nose's receptor cells:
 
 ### Olfactory + Gustatory Experiment
-[more info coming on thursday]
+_check the slides for instructions_
 
 ## Pre-Workshop Setup
 Please make sure to complete the following steps *before* attending the workshop, as you will not have time during the workshop. Don't worry, everything is free:
